@@ -1,6 +1,6 @@
 Name:		texlive-pygmentex
 Version:	64131
-Release:	1
+Release:	2
 Summary:	Use Pygments to format code listings in documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pygmentex

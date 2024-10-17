@@ -3,7 +3,7 @@ Version:	64131
 Release:	2
 Summary:	Use Pygments to format code listings in documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pygmentex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pygmentex
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pygmentex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pygmentex.doc.r%{version}.tar.xz
